@@ -337,7 +337,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 header {
-  background-image: url("/assets/budapest.jpg");
+  background-image: url("{{ site.baseurl }}/static/images/budapest.jpg");
   background-repeat: none;
   background-attachment: scroll;
   background-position: center center;
